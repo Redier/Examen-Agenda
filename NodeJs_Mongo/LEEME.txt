@@ -1,0 +1,12 @@
+INSTRUCCIONES DE USO 
+
+La aplicacion tiene un script en el index.js que inicializa la base de datos mongo, con un usuario inicial con los siguientes datos de log
+
+usuario: 1
+pass: 1234
+
+Solo queda abrir mongod.exe y ejecutar dentro de este carpeta la cosola, y el comando "npm start", que iniciara el servidor en el puerto 8082
+
+Por ultimo, ingrese al navegador y digite localhost:8082
+
+Suerte!!!
